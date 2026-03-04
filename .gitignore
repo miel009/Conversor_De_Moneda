@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Archivos compilados
+out/
+*.class
+
+# Logs
+*.log
+
+# Archivos temporales de sistema
+.DS_Store
+Thumbs.db
